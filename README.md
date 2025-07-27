@@ -19,3 +19,6 @@ By analyzing historical data and applying machine learning techniques, the model
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+This project was inspired by a YouTube tutorial, but fully implemented and documented by me, with my own understanding and improvements.
+
